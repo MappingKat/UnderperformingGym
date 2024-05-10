@@ -1,42 +1,57 @@
-# Roswell Alpharetta Planet Fitness Performance Analysis
+# Planet Fitness - Roswell Alpharetta Gym Performance Analysis
 
 ## Introduction
-This Jupyter notebook analyzes the performance of the Planet Fitness gym located in Roswell Alpharetta, Georgia. The gym is observed to be underperforming compared to nearby competitors. The analysis aims to answer key questions and provide actionable recommendations for improvement.
+Welcome to the Planet Fitness - Roswell Alpharetta Gym Performance Analysis repository. This project delves into the performance of the Planet Fitness gym located in Roswell Alpharetta, highlighting areas of underperformance compared to nearby competitors. Through data analysis and forecasting, we aim to identify opportunities for improvement and provide actionable recommendations to enhance the gym's performance.
 
-### Key Questions:
-1. Why is the Roswell Alpharetta gym underperforming compared to nearby competitors?
-2. How can we leverage data and customer feedback to improve gym performance?
+## Overview
+This project utilizes a data-driven approach to analyze various aspects of the gym's performance, including customer acquisition, activation, retention, referral, and revenue. By leveraging the AARRR framework (Acquisition, Activation, Retention, Referral, and Revenue), we aim to gain insights into key metrics and develop strategies for improvement.
 
-## Analysis Approach
-This notebook utilizes the Pirate Metrics framework (Acquisition, Activation, Retention, Referral, Revenue) to assess the gym's performance across different stages of the customer journey.
+## Data Analysis
+The project involves extensive data exploration and visualization to uncover insights into customer behavior, preferences, and trends. We analyze factors such as foot traffic patterns, demographics of visitors, customer feedback, and facility conditions to identify areas of strength and weakness.
 
-## Data Sources
-1. Gym visitor data (location, frequency, duration)
-2. Customer reviews
-3. Competitor gym information (location, amenities)
+### Key Insights from Data Analysis
+- **Competitive Landscape**: Nearby competitors include another Planet Fitness with better facilities and a Crunch Fitness located in the same shopping area.
+- **Customer Feedback**: Negative reviews mention theft, homeless individuals, and poor customer service, impacting customer satisfaction and retention.
+- **Visitor Behavior**: Visitors stay on average 25 min at the underperforming gym compared to almost 50 min at competitors, indicating dissatisfaction with amenities and services.
 
-## Notebook Contents
+## Data Forecasting
+In addition to retrospective analysis, this project involves forecasting future performance based on historical data trends and market dynamics. We utilized machine learning models to predict gym visitor counts for different locations.
 
-### 1. Introduction
-Briefly highlights the underperformance of the gym and the goals of the analysis.
+### Forecasting Results
+#### Milton Gym:
+- Linear Regression: MSE of 14580.08
+- Random Forest: MSE of 15348.06
+- Neural Network: MSE of 23766.88
+(More details about model performance and interpretation)
 
-### 2. Understanding Our Customers (AARRR Framework)
-Explains the Pirate Metrics framework and its relevance to gym performance analysis.
+#### Woodstock Gym:
+- Linear Regression: MSE of 51991.50
+- Random Forest: MSE of 51145.39
+- Neural Network: MSE of 56525.90
+(More details about model performance and interpretation)
 
-### 3. Acquisition
-Analyzes data on gym location, visitor demographics, and local advertising efforts to assess acquisition effectiveness. Visualizations might include maps showing gym location and visitor distribution, alongside competitor locations.
+#### Roswell Gym:
+- Linear Regression: MSE of 39674.90
+- Random Forest: MSE of 36798.62
+- Neural Network: MSE of 43643.06
+(More details about model performance and interpretation)
 
-### 4. Customer Story
-Creates a narrative to illustrate the challenges faced by a potential gym member (e.g., Sarah) considering the Roswell Alpharetta gym and nearby competitors.
+#### Underperforming Roswell Gym:
+- Linear Regression: MSE of 24191.68
+- Random Forest: MSE of 20758.33
+- Neural Network: MSE of 33002.04
+(More details about model performance and interpretation)
 
-### 5. Activation & Retention
-Analyzes data on average visit duration, customer reviews, and facility conditions to understand how effectively the gym converts visitors into regular members. Visualizations might include charts comparing average visit durations across gyms and showcasing negative customer reviews.
+## Repository Structure
+- **Data**: Contains datasets used for analysis and forecasting.
+- **Notebooks**: Jupyter notebooks documenting data analysis, visualization, and forecasting methodologies.
+- **Reports**: Reports summarizing key findings, insights, and recommendations.
+- **Presentations**: Presentation slides for communicating analysis results to stakeholders.
+- **Scripts**: Python scripts for data preprocessing, modeling, and visualization.
 
-### 6. Recommendations for Improvement
-Based on the analysis, proposes actionable recommendations for each stage of the AARRR framework. This might include facility upgrades, enhanced customer service training, targeted marketing campaigns, and improved onboarding processes.
+## Conclusion
+By leveraging data analysis and forecasting techniques, this project aims to provide actionable insights and recommendations to enhance the performance of the Planet Fitness gym in Roswell Alpharetta. Continuous monitoring and adaptation based on data-driven insights will be crucial for achieving long-term success and maintaining a competitive edge in the fitness market.
 
-### 7. Conclusion
-Summarizes the key findings and emphasizes the importance of data-driven decision making and continuous improvement for gym success.
+## Further Information
+For more information, please refer to the notebooks provided in this repository. Feel free to reach out to the project team for any inquiries or collaboration opportunities.
 
-## Expected Outcome
-This analysis aims to identify areas for improvement at the Roswell Alpharetta Planet Fitness gym and provide actionable recommendations to enhance the member experience, leading to increased visitation, retention, and overall gym performance.
