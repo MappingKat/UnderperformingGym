@@ -55,6 +55,7 @@ By leveraging data analysis and forecasting techniques, this project aims to pro
 
 # Gym Performance Analysis Details
 
+
 ## Introduction
 
 While conveniently situated for many residents, recent data and customer feedback suggest the Alpharetta gym is underperforming compared to nearby competitors, like Crunch Fitness and another Planet Fitness just a 10-minute drive away.
@@ -71,6 +72,8 @@ ROADMAP:
 - I will make some recommendations for how the gym could improve for that stage of the customer journey.
 
 ## Understanding Our Customers (AARRR Framework)
+
+[pirate metrics](images/pirate-metrics)
 
 The Pirate Metrics framework (AARRR – Acquisition, Activation, Retention, Referral, Revenue) is a valuable tool for analyzing a gym's performance because it allows you to pinpoint specific areas for improvement and track progress in a systematic and timely manner.
 
