@@ -19,7 +19,7 @@ ROADMAP:
 
 ## Understanding Our Customers (AARRR Framework)
 
-![pirate metrics](/images/pirate-metrics.png)
+![pirate metrics](/images/pirate-metrics.png =100x200)
 
 The Pirate Metrics framework (AARRR – Acquisition, Activation, Retention, Referral, Revenue) is a valuable tool for analyzing a gym's performance because it allows you to pinpoint specific areas for improvement and track progress in a systematic and timely manner.
 
@@ -140,22 +140,22 @@ Instead of a definitive recommendation, here's a data-driven approach to decide:
 4. **Run Cost-Benefit Analysis:** Estimate the cost savings from closing one gym and the potential loss of revenue from member churn.
 
 
-![](images/churn-rate.png =100x20)
-![](images/gym-duration.png =100x20)
-![](images/home-distance.png =100x20)
-![](images/kernel-density.png =100x20)
-![](images/milton-training.png =100x20)
-![](images/monthly-visitation.png =100x20)
-![](images/new-recurring-membership.png =100x20)
-![](images/peak-times.png =100x20)
-![](images/pf-predictions-2.png =100x20)
-![](images/pf-predictions.png =100x20)
-![](images/pirate-metrics =100x20)
-![](images/retention-curvers.png =100x20)
-![](images/roswell-training.png =100x20)
-![](images/roswell-underperforming-times.png =100x20)
-![](images/roswell-underperforming-training.png =100x20)
-![](images/woodstock-training.png =100x20)
+![](/images/churn-rate.png =100x200)
+![](/images/gym-duration.png =100x20)
+![](/images/home-distance.png =100x200)
+![](/images/kernel-density.png =100x200)
+![](/images/milton-training.png =100x200)
+![](/images/monthly-visitation.png =1000x20)
+![](/images/new-recurring-membership.png =0100x20)
+![](/images/peak-times.png =100x200)
+![](/images/pf-predictions-2.png =0100x20)
+![](/images/pf-predictions.png =100x200)
+![](/images/pirate-metrics =100x200)
+![](/images/retention-curvers.png 0=100x20)
+![](/images/roswell-training.png =100x200)
+![](/images/roswell-underperforming-time0s.png =100x20)
+![](/images/roswell-underperforming-training.png =1000x20)
+![](/images/woodstock-training.png =100x200)
 
 
 
