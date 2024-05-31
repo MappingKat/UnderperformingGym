@@ -19,7 +19,7 @@ ROADMAP:
 
 ## Understanding Our Customers (AARRR Framework)
 
-![pirate metrics](images/pirate-metrics)
+![pirate metrics](https://github.com/MappingKat/UnderperformingGym/blob/master/images/pirate-metrics.png)
 
 The Pirate Metrics framework (AARRR – Acquisition, Activation, Retention, Referral, Revenue) is a valuable tool for analyzing a gym's performance because it allows you to pinpoint specific areas for improvement and track progress in a systematic and timely manner.
 
@@ -38,7 +38,7 @@ Let’s jump into the customer journey of the Roswell Alpharetta visitor:
 
 ## Demographic and Age Structure
 
-![demographics](/images/county-demographics.png)
+![demographics](https://github.com/MappingKat/UnderperformingGym/blob/master/images/county-demographics.png)
 
 Roswell is located in a bustling suburb of Atlanta with a majority of its residents in the 25-29 age range, which is a great fit for fitness amenities. In fact, there are a astonishingly large amount of gyms in the area… and even a Planet Fitness gym located 10 minutes away.
 
