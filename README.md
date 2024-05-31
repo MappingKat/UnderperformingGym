@@ -6,7 +6,7 @@ Welcome to the Planet Fitness - Roswell Alpharetta Gym Performance Analysis repo
 ## Overview
 This project utilizes a data-driven approach to analyze various aspects of the gym's performance, including customer acquisition, activation, retention, referral, and revenue. By leveraging the AARRR framework (Acquisition, Activation, Retention, Referral, and Revenue), we aim to gain insights into key metrics and develop strategies for improvement.
 
-![Map of the locations of the gyms](images/)
+![Map of the locations of the gyms](/images/gym-locations.png)
 
 ## Data Analysis
 The project involves extensive data exploration and visualization to uncover insights into customer behavior, preferences, and trends. We analyze factors such as foot traffic patterns, demographics of visitors, customer feedback, and facility conditions to identify areas of strength and weakness.
