@@ -6,6 +6,8 @@ Welcome to the Planet Fitness - Roswell Alpharetta Gym Performance Analysis repo
 ## Overview
 This project utilizes a data-driven approach to analyze various aspects of the gym's performance, including customer acquisition, activation, retention, referral, and revenue. By leveraging the AARRR framework (Acquisition, Activation, Retention, Referral, and Revenue), we aim to gain insights into key metrics and develop strategies for improvement.
 
+![Map of the locations of the gyms](images/)
+
 ## Data Analysis
 The project involves extensive data exploration and visualization to uncover insights into customer behavior, preferences, and trends. We analyze factors such as foot traffic patterns, demographics of visitors, customer feedback, and facility conditions to identify areas of strength and weakness.
 
@@ -52,4 +54,4 @@ In addition to retrospective analysis, this project involves forecasting future 
 ## Conclusion
 By leveraging data analysis and forecasting techniques, this project aims to provide actionable insights and recommendations to enhance the performance of the Planet Fitness gym in Roswell Alpharetta. Continuous monitoring and adaptation based on data-driven insights will be crucial for achieving long-term success and maintaining a competitive edge in the fitness market.
 
-Please see [report for more details](https://github.com/MappingKat/UnderperformingGym/report.md)
+Please see [report for more details](https://github.com/MappingKat/UnderperformingGym/blob/master/report.md)
