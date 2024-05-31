@@ -19,25 +19,33 @@ The project involves extensive data exploration and visualization to uncover ins
 ## Data Forecasting
 In addition to retrospective analysis, this project involves forecasting future performance based on historical data trends and market dynamics. We utilized machine learning models to predict gym visitor counts for different locations.
 
+![](/images/pf-predictions-2.png)
+![](/images/pf-predictions.png)
+
 ### Forecasting Results
+
+![](/images/milton-training.png)
 #### Milton Gym:
 - Linear Regression: MSE of 14580.08
 - Random Forest: MSE of 15348.06
 - Neural Network: MSE of 23766.88
 (More details about model performance and interpretation)
 
+![](/images/woodstock-training.png)
 #### Woodstock Gym:
 - Linear Regression: MSE of 51991.50
 - Random Forest: MSE of 51145.39
 - Neural Network: MSE of 56525.90
 (More details about model performance and interpretation)
 
+![](/images/roswell-training.png)
 #### Roswell Gym:
 - Linear Regression: MSE of 39674.90
 - Random Forest: MSE of 36798.62
 - Neural Network: MSE of 43643.06
 (More details about model performance and interpretation)
 
+![](/images/roswell-underperforming-training.png)
 #### Underperforming Roswell Gym:
 - Linear Regression: MSE of 24191.68
 - Random Forest: MSE of 20758.33

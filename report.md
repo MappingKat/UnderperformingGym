@@ -29,8 +29,11 @@ By analyzing each stage of the customer journey, you can identify where the Rosw
 ### Targeted Improvements and Timely Measurement
 Once you identify bottlenecks, you can focus your improvement efforts on specific metrics. For example, the Roswell gym can target Activation by upgrading facilities and enhancing customer service. The impact of these improvements can then be measured by tracking changes in average visit duration and member retention rates. This allows for a data-driven approach to improvement, ensuring you're addressing the root causes impacting visitation.
 
+
 ### Metrics Can Provide Timely Insights
 The Pirate Metrics provide insights you can use to make timely decisions. Analyzing data on Acquisition allows you to adjust marketing campaigns quickly if new member sign-ups are lagging. Similarly, tracking member churn rate (part of Retention) allows you to identify and address issues that might be causing members to cancel before their memberships expire.
+
+![](/images/churn-rate.png)
 
 The Pirate Metrics framework is powerful because it allows you to strategically focus on improving one stage of the customer journey at a time.
 
@@ -48,10 +51,16 @@ Roswell is located in a bustling suburb of Atlanta with a majority of its reside
 
 **Data Insights:** Our data shows a high concentration of visitors living within 5 miles of the Roswell gym, indicating its convenience is a factor. However, customer acquisition seems to be lagging compared to nearby competitors.
 
+![](/images/kernel-density.png)
+
 **Actionable Recommendation:** Develop targeted local advertising campaigns highlighting the gym's convenient location. Consider offering referral program incentives for existing members to spread the word about the gym's benefits (this also overlaps with the referral stage later on).
 
 #### Customer Story: Convenience vs. Experience
 Imagine Sarah, a resident of Roswell considering gyms. She is an insurance broker who sometimes drives into the office 30 minutes away. She finds two Planet Fitness locations nearby: ours and another with a newer facade and more amenities. Additionally, there's Crunch Fitness in the same shopping area. Convenience initially draws Sarah to our gym, but negative customer reviews mentioning uncleanliness, security concerns with homeless individuals, and poor customer service could make her reconsider.
+
+![](/images/roswell-underperforming-time0s.png)
+
+![](/images/peak-times.png)
 
 ### Activation & Retention: Converting Visitors into Engaged Members
 
@@ -59,7 +68,12 @@ Imagine Sarah, a resident of Roswell considering gyms. She is an insurance broke
 
 **Data Insights:** Here's where the challenge lies. Compared to competitors, the Roswell gym has shorter average visit durations, suggesting people aren't staying long or coming as frequently. Customer reviews also mention issues with facility condition and service, impacting the overall gym experience.
 
+![](/images/gym-duration.png)
+
 **Retention:** Though it does look like the 600 or so device IDs that come into the gym are loyal. In fact, Roswell had the highest retention rating after the first visit after 7 days.
+
+![](/images/monthly-visitation.png)
+![](/images/retention-curvers.png)
 
 **Actionable Recommendations:**
 * Invest in facility upgrades to match competitor amenities and address concerns raised in customer feedback. This could involve modernizing equipment, improving cleanliness, and creating a more welcoming environment.
@@ -140,22 +154,7 @@ Instead of a definitive recommendation, here's a data-driven approach to decide:
 4. **Run Cost-Benefit Analysis:** Estimate the cost savings from closing one gym and the potential loss of revenue from member churn.
 
 
-![](/images/churn-rate.png)
-![](/images/gym-duration.png)
-![](/images/home-distance.png)
-![](/images/kernel-density.png)
-![](/images/milton-training.png)
-![](/images/monthly-visitation.png)
-![](/images/new-recurring-membership.png)
-![](/images/peak-times.png)
-![](/images/pf-predictions-2.png)
-![](/images/pf-predictions.png)
-![](/images/pirate-metrics)
-![](/images/retention-curvers.png)
-![](/images/roswell-training.png)
-![](/images/roswell-underperforming-time0s.png)
-![](/images/roswell-underperforming-training.png)
-![](/images/woodstock-training.png)
+
 
 
 
